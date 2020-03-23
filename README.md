@@ -7,6 +7,10 @@ The problem can be recognized as a Supervised Learning Problem as there are mult
 
 
 ![a1](https://user-images.githubusercontent.com/41800767/77341627-ff87ed00-6d54-11ea-93dc-f2acc41dcce4.png)
+![a2](https://user-images.githubusercontent.com/41800767/77341785-470e7900-6d55-11ea-9914-b97bba9da7f3.png)
+![a3](https://user-images.githubusercontent.com/41800767/77341810-4c6bc380-6d55-11ea-8602-7857676c5c76.png)
+![a4](https://user-images.githubusercontent.com/41800767/77341907-69a09200-6d55-11ea-850f-d03ff289771d.png)
+
 
 
 
